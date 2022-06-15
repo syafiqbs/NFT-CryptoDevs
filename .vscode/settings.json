@@ -1,0 +1,5 @@
+{
+    "solidity.remappings": [
+        "@openzeppelin/=/Users/cross/Web3/NFT-Collection/hardhat-tutorial/artifacts/@openzeppelin"
+    ],
+}
